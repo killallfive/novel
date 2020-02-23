@@ -1,0 +1,22 @@
+{
+  "name": "novel",
+  "version": "1.0.0",
+  "description": "简单介绍一下金庸先生的著名小说",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killallfive/novel.git"
+  },
+  "author": "guozijun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/killallfive/novel/issues"
+  },
+  "homepage": "https://github.com/killallfive/novel#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
