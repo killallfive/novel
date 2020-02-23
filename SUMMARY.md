@@ -3,3 +3,4 @@
 - [连城诀](lianchengjue.md)
 - [天龙八部](tianlongbabu.md)
 - [射雕英雄传](shediaoyingxiongzhuan.md)
+- [白马啸西风](baimaxiaoxifeng.md)
