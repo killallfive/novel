@@ -4,3 +4,6 @@
 - [天龙八部](tianlongbabu.md)
 - [射雕英雄传](shediaoyingxiongzhuan.md)
 - [白马啸西风](baimaxiaoxifeng.md)
+- [鹿鼎记](ludingji.md)
+- [笑傲江湖](xiaoaojianghu.md)
+- [书剑恩仇录](shujianenchoulu.md)
